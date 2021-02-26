@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cima" size="2.000000 0.886243" />
+    <ImageTarget name="tras" size="2.000000 0.887566" />
+    <ImageTarget name="baixo" size="2.000000 0.886243" />
+  </Tracking>
+</QCARConfig>
